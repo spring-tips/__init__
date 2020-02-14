@@ -1,3 +1,4 @@
+rsocket-security
 spring-cloud-load-balancer
 ftp-integration
 distributed-locks-with-spring-integration
