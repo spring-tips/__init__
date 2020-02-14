@@ -1,3 +1,4 @@
+kotlin-security
 rsocket-security
 spring-cloud-load-balancer
 ftp-integration
