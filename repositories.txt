@@ -1,3 +1,5 @@
+cloudfoundry-java-client-autoconfiguration
+apache-rocketmq
 kotlin-security
 rsocket-security
 spring-cloud-load-balancer
@@ -5,7 +7,6 @@ ftp-integration
 distributed-locks-with-spring-integration
 organizational-consistency
 koroutines
-cloudfoundry-java-client-autoconfiguration
 debugging-reactor-applications
 reactive-transactions
 kafka-and-spring-batch
