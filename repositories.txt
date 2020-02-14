@@ -5,6 +5,7 @@ ftp-integration
 distributed-locks-with-spring-integration
 organizational-consistency
 koroutines
+cloudfoundry-java-client-autoconfiguration
 debugging-reactor-applications
 reactive-transactions
 kafka-and-spring-batch
