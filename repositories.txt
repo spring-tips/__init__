@@ -1,5 +1,5 @@
-cloudfoundry-java-client-autoconfiguration
 apache-rocketmq
+cloudfoundry-java-client-autoconfiguration
 kotlin-security
 rsocket-security
 spring-cloud-load-balancer
