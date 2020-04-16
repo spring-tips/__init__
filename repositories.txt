@@ -1,3 +1,4 @@
+spring-graal-native-image-feature
 apache-rocketmq
 cloudfoundry-java-client-autoconfiguration
 kotlin-security
