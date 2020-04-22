@@ -79,3 +79,4 @@ reactive-mysql-with-jasync-and-r2dbc
 lazy-and-fast
 spring-fu-jafu
 kotlin-spring-integration
+configuration
